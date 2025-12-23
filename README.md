@@ -1,7 +1,3 @@
-echo "# cv_final_1141" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/joelleliu17/cv_final_1141.git
-git push -u origin main
+計算test-time adaptation的程式碼在資料夾TTA裡面，main為主程式，替換成自己的資料集和pre-trained model就能跑
+
+計算dataset feature距離的程式碼在compute_distance內，一些計算結果可以在distance_result裡面看到
