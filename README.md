@@ -1,3 +1,3 @@
-計算test-time adaptation的程式碼在資料夾TTA裡面，main為主程式，替換成自己的資料集和pre-trained model就能跑
+計算test-time adaptation的程式碼在資料夾TTA裡面，main替換成自己的資料集和pre-trained model就能運行
 
 計算dataset feature距離的程式碼在compute_distance內，一些計算結果可以在distance_result裡面看到
