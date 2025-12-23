@@ -1,0 +1,26 @@
+Compute sOTDD...
+
+
+
+Projection nums: 100, Distance: 0.17453432083129883
+Use time: 0.9455592632293701
+
+
+
+Projection nums: 500, Distance: 0.1533481478691101
+Use time: 0.7288405895233154
+
+
+
+Projection nums: 1000, Distance: 0.18812885880470276
+Use time: 0.8125615119934082
+
+
+
+Projection nums: 5000, Distance: 0.1605880856513977
+Use time: 1.4961609840393066
+
+
+
+Projection nums: 10000, Distance: 0.16554822027683258
+Use time: 2.357266426086426
