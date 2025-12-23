@@ -1,0 +1,10 @@
+## 算了整個table
+Time proccesing for sOTDD (100 projections): 13.541261911392212 
+Time proccesing for sOTDD (500 projections): 29.85502576828003 
+Time proccesing for sOTDD (1000 projections): 219.10976028442383 
+Time proccesing for sOTDD (5000 projections): 832.7171914577484 
+Time proccesing for sOTDD (10000 projections): 2036.343062877655
+
+## 接下來只算和train的
+
+Time proccesing for OTDD (exact): 3810.0500371456146 
